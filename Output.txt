@@ -1,0 +1,4 @@
+John (Full-Time) Salary: 3600.0
+Sara (Part-Time) Salary: 1600.0
+Mike (Full-Time) Salary: 3200.0
+Anna (Part-Time) Salary: 1260.0
